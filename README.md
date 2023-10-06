@@ -1,8 +1,7 @@
 <h1>Sistema de Cadastro de Jogos</h1>
 > Status: Em desenvolvimento
 
-Exemplo de Markdown
-
+Para rodar o sistema em sua máquina, digite:
 ~~~
-install something something
+node app.js
 ~~~
